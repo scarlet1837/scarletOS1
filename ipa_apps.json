@@ -1,10 +1,10 @@
 {
     "ipa_apps": [
         {
-            "name": "test",
-            "image": "test",
-            "version": "1.0",
-            "get_url": "test"
+            "name": "scarlet ipa",
+            "image": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/IMG_0406.webp",
+            "version": "v1.0",
+            "get_url": "http://fn0.techstar.host:25616/uploads/Scarlet.ipa"
         }
     ]
 }
