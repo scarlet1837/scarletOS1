@@ -1,0 +1,10 @@
+{
+    "ipa_apps": [
+        {
+            "name": "test",
+            "image": "test",
+            "version": "1.0",
+            "get_url": "test"
+        }
+    ]
+}
