@@ -10,14 +10,13 @@
             "name": "scarletOS ipa",
             "image": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/ScarletOS.webp",
             "version": "v2.0",
-            "get_url": "http://fn0.techstar.host:25616/uploads/ScarletOS.ipa"
+            "get_url": "coming soon"
         },
         {
-            "name": "scarletOS ipa",
+            "name": "feather ipa",
             "image": "https://github.com/scarlet1837/scarletOS1/raw/refs/heads/main/IMG_0038.webp",
-            "version": "v2.0",
+            "version": "v1.5",
             "get_url": "https://github.com/scarlet1837/ipa/raw/refs/heads/main/feather_v1.0.5%202.ipa"
         }
     ]
 }
-https://raw.githubusercontent.com/scarlet1837/scarletOS1/refs/heads/main/IMG_0038.webp
