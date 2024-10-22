@@ -14,7 +14,7 @@
         },
         {
             "name": "feather ipa",
-            "image": "https://github.com/scarlet1837/scarletOS1/raw/refs/heads/main/IMG_0038.webp",
+            "image": "https://raw.githubusercontent.com/scarlet1837/scarletOS1/refs/heads/main/IMG_0038.webp",
             "version": "v1.5",
             "get_url": "https://github.com/scarlet1837/ipa/raw/refs/heads/main/feather_v1.0.5%202.ipa"
         }
