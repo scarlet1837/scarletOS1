@@ -5,6 +5,18 @@
             "version": "v1.0",
             "image": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/IMG_0406.webp",
             "get_url": "https://rekonise.com/scarlet-install-hz3y3"
+        },
+        {
+            "name": "delta",
+            "image": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/IMG_6835.webp",
+            "version": "unknown",
+            "get_url": "https://rekonise.com/delta-install-r9hwu"
+        },
+        {
+            "name": "esign",
+            "image": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/IMG_5680.webp",
+            "version": "unknown",
+            "get_url": "https://rekonise.com/esign-install-d7pon"
         }
     ]
 }
