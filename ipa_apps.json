@@ -18,5 +18,11 @@
             "version": "v1.5",
             "get_url": "https://github.com/scarlet1837/ipa/raw/refs/heads/main/feather_v1.0.5%202.ipa"
         }
+        {
+            "name": "delta ipa",
+            "image": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/IMG_6835.webp",
+            "version": "unknown",
+            "get_url": "https://rekonise.com/delta-ipa-hohee"
+        }
     ]
 }
