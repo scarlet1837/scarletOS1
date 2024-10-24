@@ -23,6 +23,12 @@
             "image": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/IMG_6835.webp",
             "version": "unknown",
             "get_url": "https://rekonise.com/delta-ipa-hohee"
+        },
+        {
+            "name": "esign ipa",
+            "image": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/IMG_5680.webp",
+            "version": "v4.8",
+            "get_url": "https://github.com/scarlet1837/ipa/raw/refs/heads/main/ESign_4.8.0.1_1727111569.ipa"
         }
     ]
 }
