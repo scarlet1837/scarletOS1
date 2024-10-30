@@ -10,7 +10,7 @@
             "name": "scarletOS ipa",
             "image": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/ScarletOS.webp",
             "version": "v2.0",
-            "get_url": "coming soon"
+            "get_url": "https://raw.githubusercontent.com/scarlet1837/ScarletOS-ipa/refs/heads/main/scarletOS.ipa"
         },
         {
             "name": "feather ipa",
