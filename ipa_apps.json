@@ -1,5 +1,12 @@
 {
     "ipa_apps": [
+        
+        {
+            "name": "fortnite ipa",
+            "image": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/IMG_7357.webp",
+            "version": "v1.0",
+            "get_url": "https://rekonise.com/fortnite-ipa-e5goy"
+        },
         {
             "name": "scarlet ipa",
             "image": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/IMG_0406.webp",
