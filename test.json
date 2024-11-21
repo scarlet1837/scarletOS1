@@ -1,0 +1,21 @@
+{
+    "apps": [
+        {
+            "name": "Scarlet",
+            "version": "v1.0",
+            "image": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/IMG_0406.webp",
+            "html_file": "scarlet.html"
+        },
+        {
+            "name": "Delta",
+            "image": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/IMG_6835.webp",
+            "version": "unknown",
+            "html_file": "delta.html"
+        },
+        {
+            "name": "ESign",
+            "image": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/IMG_5680.webp",
+            "version": "4.8"
+        }
+    ]
+}
