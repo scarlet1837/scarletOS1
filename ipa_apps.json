@@ -36,6 +36,12 @@
             "image": "https://raw.githubusercontent.com/scarlet1837/images/refs/heads/main/IMG_5680.webp",
             "version": "v4.8",
             "get_url": "https://github.com/scarlet1837/ipa/raw/refs/heads/main/ESign_4.8.0.1_1727111569.ipa"
+        },
+        {
+            "name": "Fall Guys ipa",
+            "image": "https://github.com/scarlet1837/images/raw/refs/heads/main/IMG_8418.webp",
+            "version": "v11",
+            "get_url": "https://s3.flekstore.com/ipa-library/fallguy2.ipa"
         }
     ]
 }
