@@ -37,7 +37,12 @@
             "version": "v4.8",
             "get_url": "https://github.com/scarlet1837/ipa/raw/refs/heads/main/ESign_4.8.0.1_1727111569.ipa"
         },
-        
+        {
+            "name": "Fall Guys ipa",
+            "image": "https://github.com/scarlet1837/images/raw/refs/heads/main/IMG_8418.webp",
+            "version": "v11",
+            "get_url": "https://s3.flekstore.com/ipa-library/fallguy2.ipa"
+        },
         {
             "name": "codex ipa",
             "image": "https://github.com/scarlet1837/images/raw/refs/heads/main/IMG_8149.webp",
@@ -45,10 +50,16 @@
             "get_url": "https://rekonise.com/codex-ipa-lxghu"
         },
         {
-            "name": "Fall Guys ipa",
-            "image": "https://github.com/scarlet1837/images/raw/refs/heads/main/IMG_8418.webp",
-            "version": "v11",
-            "get_url": "https://s3.flekstore.com/ipa-library/fallguy2.ipa"
-        }
+            "name": "oldOS ipa",
+            "image": "https://i.ibb.co/fp25ms4/IMG-8420.webp",
+            "version": "v1",
+            "get_url": "https://s3.flekstore.com/ipa-library/OldOS.ipa"
+        },       
+        {
+            "name": "fnaf ipa",
+            "image": "https://i.ibb.co/4TLPTKd/IMG-8421.webp",
+            "version": "v2",
+            "get_url": "https://s3.flekstore.com/ipa-library/FNAF.ipa"
+        }      
     ]
 }
