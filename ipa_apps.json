@@ -37,6 +37,13 @@
             "version": "v4.8",
             "get_url": "https://github.com/scarlet1837/ipa/raw/refs/heads/main/ESign_4.8.0.1_1727111569.ipa"
         },
+        
+        {
+            "name": "codex ipa",
+            "image": "https://github.com/scarlet1837/images/raw/refs/heads/main/IMG_8149.webp",
+            "version": "unknown",
+            "get_url": "https://rekonise.com/codex-ipa-lxghu"
+        },
         {
             "name": "Fall Guys ipa",
             "image": "https://github.com/scarlet1837/images/raw/refs/heads/main/IMG_8418.webp",
